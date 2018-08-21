@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "http://sylvia-teststack-s3bucket-o56n949uqtqw.s3-website-us-east-1.amazonaws.com"
     }
 }
